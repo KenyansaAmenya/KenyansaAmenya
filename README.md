@@ -26,7 +26,7 @@ tech_stack = {
 
 🚀 Featured Projects 
 
-🏥 Healthcare AI Prediction System
+### [🏥 Healthcare AI Prediction System](https://github.com/KenyansaAmenya/healthcare-ml-pipeline.git)
 
 Built a production-grade ML system to address the lack of real-time healthcare risk prediction. Designed an end-to-end pipeline for ingesting, cleaning, and modeling patient data, with predictions served via a scalable API.
 
