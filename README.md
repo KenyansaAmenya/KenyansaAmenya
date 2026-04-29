@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there I am Felix Amenya Kenyansa 👋
 
+## About me
+I'm Passionate about Data Science, Analytics, and AI. I build data-driven solutions, uncover insights, and experiment with machine learning to solve real-world problems.
 <!--
-**KenyansaAmenya/KenyansaAmenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Expertise
+
+tech_stack = {
+    "programming": ["Python", "SQL", "Jupyter Notebooks"],
+    "visualization": ["Tableau", "Power BI", "Excel", "Matplotlib", "Seaborn"],
+    "DataBases": ["MongoDB", "Postgres"],
+    "specialties": ["Machine learning", "Data Analytics", "Operational Intelligence", "Data Quality"]
+    "streaming": ["Apache Kafka", "Python", "Real-time ETL"],
+    "orchestration": ["Apache Airflow"],
+    "Frameworks": ["FastAPI", "Flask"]
+}
+
+## Core Technologies
+
+Python
+Airflow
+SQL
+Jupyter
+Docker
+
+🚀 Featured Projects 
+>
