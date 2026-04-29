@@ -5,7 +5,7 @@ I'm Passionate about Data Science, Analytics, and AI. I build data-driven soluti
 
 
 🛠️ Tech Stack & Expertise
-
+```
 tech_stack = {
     "programming": ["Python", "SQL", "Jupyter Notebooks"],
     "visualization": ["Tableau", "Power BI", "Excel", "Matplotlib", "Seaborn"],
@@ -15,7 +15,7 @@ tech_stack = {
     "orchestration": ["Apache Airflow"],
     "Frameworks": ["FastAPI", "Flask"]
 }
-
+```
 ## Core Technologies
 
 Python
