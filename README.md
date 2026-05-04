@@ -45,18 +45,18 @@ It achieves two big outcomes:
 
 ## 1. Personalized student learning
 
-Generates quiz questions dynamically by topic/difficulty.
+- Generates quiz questions dynamically by topic/difficulty.
 
-Gives instant AI feedback, hints, and explanations after answers.
+- Gives instant AI feedback, hints, and explanations after answers.
 
-Tracks progress, accuracy, and recurring mistakes over time. 
+- Tracks progress, accuracy, and recurring mistakes over time. 
 
 ## 2. Actionable teacher analytics
 
-Provides dashboards for class performance and topic difficulty.
+- Provides dashboards for class performance and topic difficulty.
 
-Surfaces struggling students early.
+- Surfaces struggling students early.
 
-Adds AI-generated teaching recommendations based on performance data. 
+- Adds AI-generated teaching recommendations based on performance data. 
 
 It combines a FastAPI backend + service/repository architecture + Groq LLM + PostgreSQL/Supabase to power both the student-facing quiz flow and teacher-facing analytics
