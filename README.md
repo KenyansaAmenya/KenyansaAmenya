@@ -29,8 +29,8 @@ tech_stack = {
 
 🚀 Featured Projects 
 
-### [🏥 Healthcare AI Prediction System](https://github.com/KenyansaAmenya/healthcare-ml-pipeline.git) 
-## [web app](https://clinical-sanctuary-web.vercel.app/)
+### [🏥 1. Healthcare AI Prediction System](https://github.com/KenyansaAmenya/healthcare-ml-pipeline.git) 
+## [Clinical sanctuary UI](https://clinical-sanctuary-web.vercel.app/)
 
 Built a production-grade ML system to address the lack of real-time healthcare risk prediction. Designed an end-to-end pipeline for ingesting, cleaning, and modeling patient data, with predictions served via a scalable API.
 
@@ -38,8 +38,8 @@ Built a production-grade ML system to address the lack of real-time healthcare r
 - Achieved automated model training, versioning, and real-time inference
 - Learned: End-to-end ML system design, MLOps practices, and deploying scalable AI APIs
 
-### [Lumina learn AI Adaptive learning system](https://github.com/KenyansaAmenya/lumina-learn.git)
-## [UI](https://lumina-wheat-ten.vercel.app/)
+### 2. [Lumina learn AI Adaptive learning system](https://github.com/KenyansaAmenya/lumina-learn.git)
+## [Lumina learn UI](https://lumina-wheat-ten.vercel.app/)
 
 LuminaLearn is an AI adaptive learning platform focused on improving how students practice and how teachers monitor progress.
 
@@ -63,7 +63,7 @@ It achieves two big outcomes:
 
 It combines a FastAPI backend + service/repository architecture + Groq LLM + PostgreSQL/Supabase to power both the student-facing quiz flow and teacher-facing analytics
 
-### [Globan energy prices project](https://github.com/KenyansaAmenya/energy-data.git)
+### 3. [Global energy prices project](https://github.com/KenyansaAmenya/energy-data.git)
 
 This project is an Energy Data Platform where I built a complete pipeline to collect, process, and serve energy price data. It uses Airflow for ETL orchestration, Python for data validation/transformation, MongoDB for storage, and Flask for APIs and dashboard visualization.
 
@@ -98,8 +98,8 @@ This project is an Energy Data Platform where I built a complete pipeline to col
 
 - Better practices for scalable Python project structure and MongoDB-backed analytics systems.
 
-### [formula1 race prediction](https://github.com/KenyansaAmenya/formula1-race-prediction-project.git)
-## [The UI](https://f1-frontend-2wu6.onrender.com/)
+### 4. [formula1 race prediction](https://github.com/KenyansaAmenya/formula1-race-prediction-project.git)
+## [F1 UI](https://f1-frontend-2wu6.onrender.com/)
 
 # Project Summary
 
