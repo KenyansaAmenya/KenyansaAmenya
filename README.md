@@ -1,6 +1,7 @@
 ## Hi there I am Felix Amenya Kenyansa 👋
 
 Data scientist | Data Analyst | Machine learning enthusiast | Monitoring and Evaluation
+[portfolio](https://felix-amenya-portfolio.vercel.app/)
 
 ## About me
 I'm Passionate about Data Science, Analytics, and AI. I build data-driven solutions, uncover insights, and experiment with machine learning to solve real-world problems.
